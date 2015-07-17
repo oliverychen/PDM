@@ -1,0 +1,10 @@
+Package: PDM
+Type: Package
+Title: Principal Direction of Mediation
+Version: 1.0
+Date: 2015-07-17
+Author: Oliver Chen
+Maintainer: Oliver Chen <oliver@jhmi.edu>
+Imports: MASS
+Description: Given treatment, response, and mediation matrix, this package provides functions that resturns the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients.
+License: GPL (>= 2)
